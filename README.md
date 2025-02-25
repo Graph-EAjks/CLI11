@@ -1782,6 +1782,7 @@ thanks to all the contributors
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ryan4729"><img src="https://avatars3.githubusercontent.com/u/40183301?v=4?s=100" width="100px;" alt="ryan4729"/><br /><sub><b>ryan4729</b></sub></a><br /><a href="https://github.com/CLIUtils/CLI11/commits?author=ryan4729" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shameekganguly"><img src="https://avatars.githubusercontent.com/u/2412842?v=4?s=100" width="100px;" alt="shameekganguly"/><br /><sub><b>shameekganguly</b></sub></a><br /><a href="https://github.com/CLIUtils/CLI11/commits?author=shameekganguly" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tansy"><img src="https://avatars.githubusercontent.com/u/40426919?v=4?s=100" width="100px;" alt="tansy"/><br /><sub><b>tansy</b></sub></a><br /><a href="#example-tansy" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
