@@ -737,6 +737,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "JonathanGzzBen",
+      "name": "Jonathan González Benavides",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47956254?v=4",
+      "profile": "https://jonathangzzben.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsSortAlphabetically": true,
